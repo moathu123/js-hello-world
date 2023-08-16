@@ -5,7 +5,7 @@ to the console (the panel on the right)
 */
 
 console.log("Hello");
-
+console.log("Hello world");
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
